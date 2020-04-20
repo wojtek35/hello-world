@@ -1,2 +1,4 @@
 # hello-world
-Sum repository
+
+uczę się używać githuba
+
